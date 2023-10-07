@@ -1,0 +1,42 @@
+.status{
+    margin-top: 1vh;
+    color: white;
+    font-weight: 700;
+    padding: 4px;
+}
+
+.amarillo-bg{
+    background-color: rgb(254, 254, 32);
+    width: fit-content;
+    border-radius: 1px 3px 1px 3px;
+}
+.verde-bg{
+    background-color: green;
+    width: fit-content;
+    border-radius: 1px 3px 1px 3px;
+}
+.rojo-bg{
+    background-color: red;
+    width: fit-content;
+    border-radius: 1px 3px 1px 3px;
+}
+.precio{
+    font-size: 11vh;
+}
+.fecha{
+    color: #5d5d5d;
+}
+.concepto{
+    font-weight: 600;
+    color: #141414;
+}
+
+.spaces{
+    margin: 0vh 2vh 0vh 2vh;
+    color: #FFFFFF;
+}
+.bg-bona{
+    background-color: #189b72!important;
+    border-style: none;
+    width: 100%;
+}
